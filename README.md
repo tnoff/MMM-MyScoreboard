@@ -89,6 +89,10 @@ followed by
       <td>How many hours past midnight to continue to show the previous day's games.<br><br><strong>Type</strong> <code>Number</code><br>Defaults to <code>3</code> (i.e.: continue to show yesterday's games until 3:00 AM)</td>
     </tr>
     <tr>
+      <td><code>forceTimezone</code></td>
+      <td>Force result to be in timezone.<br><br><strong>Type</strong> <code>String</code><br>Defaults to <code>America/Los_Angeles</code></td>
+    </tr>
+    <tr>
       <td><code>viewStyle</code></td>
       <td>One of the following: <code>largeLogos</code>, <code>mediumLogos</code>, <code>smallLogos</code>, <code>oneLine</code>, <code>oneLineWithLogos</code>, <code>stacked</code> or <code>stackedWithLogos</code>.<br><br><strong>Type</strong> <code>String</code><br>Defaults to <code>largeLogos</code><br />See below for examples of the view styles.</td>
     </tr>

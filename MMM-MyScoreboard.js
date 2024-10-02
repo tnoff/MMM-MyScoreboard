@@ -20,6 +20,7 @@ Module.register("MMM-MyScoreboard",{
     highlightWinners: true,
     viewStyle: "largeLogos",
     showRankings: true,
+    forceTimezone: "America/Los_Angeles",
     sports: [
       {
         league: "NHL",
